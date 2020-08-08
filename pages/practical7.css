@@ -1,0 +1,125 @@
+
+* {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+   
+}
+
+.center {
+    text-align: center;
+    font-weight: bold;
+  font-size: large;
+    font-family: sans-serif;
+   
+}
+
+.header {
+    background-color: grey;
+    color: white;
+    padding: 10px;
+   font-size: larger;
+   font-family: cursive;
+  cursor:pointer;
+}
+
+.banner {
+    height: 300px;
+    padding: 100px;
+    background-color: #d62f2f;
+    color: white;
+    font-family: cursive;
+    font-size: xx-large;
+   font-size: larger;
+   font-family: cursive;
+  cursor:pointer;
+}
+
+.section-1 {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+  cursor:pointer;
+}
+body {
+    border: ridge 15px;
+    border-color:rgb(255, 255, 255);
+  }
+  
+
+.circle-card {
+    background-color: rgb(199 193 27);
+    width: 50%;
+    border-radius: 50%;
+    margin: 10px;
+  cursor:pointer;
+}
+
+.section-2 {
+    display: flex;
+   font-size: larger;
+   font-family: cursive;
+  cursor:pointer;
+}
+
+.left-section-2 {
+    background-color: rgb(122 60 133);
+    width: 60%;
+    height: 306px;
+    margin: 10px;
+    color: white;
+    padding: 150px 0px;
+    font-family: cursive;
+    /* font-weight: bold; */
+    font-size: x-large;
+  cursor:pointer;
+}
+
+.right-section-2 {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+  font-size: larger;
+   font-family: cursive;
+  cursor:pointer;
+}
+
+.column {
+    background-color:#34aea2;
+    height: 100px;
+    margin: 2px;
+    padding: 50px 0px;
+    color: white;
+  font-size: larger;
+  font-family: cursive;
+  cursor:pointer;
+}
+
+.section-3 {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+  font-family: cursive;
+   font-size: larger;
+  cursor:pointer;
+}
+
+.rect-card {
+    background-color: #bd5d39;
+    width: 20%;
+    margin: 10px;
+   font-family: cursive;
+   font-size: larger;
+  cursor:pointer;
+}
+
+.footer {
+    padding: 10px;
+    background-color:#722c2c;
+    color: white;
+   font-family: cursive;
+   font-size: larger;
+  cursor:pointer;}
+  
+  
+}
