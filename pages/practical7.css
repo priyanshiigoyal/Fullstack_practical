@@ -17,15 +17,15 @@
 .header {
     background-color: grey;
     color: white;
-    padding: 10px;
+    padding: 5px;
    font-size: larger;
    font-family: cursive;
   cursor:pointer;
 }
 
 .banner {
-    height: 300px;
-    padding: 100px;
+    height: 150px;
+    padding: 25px;
     background-color: #d62f2f;
     color: white;
     font-family: cursive;
@@ -36,7 +36,7 @@
 }
 
 .section-1 {
-    height: 250px;
+    height: 100px;
     display: flex;
     justify-content: center;
   cursor:pointer;
@@ -49,8 +49,8 @@ body {
 
 .circle-card {
     background-color: rgb(199 193 27);
-    width: 50%;
-    border-radius: 50%;
+    width: 80%;
+    border-radius: 100%;
     margin: 10px;
   cursor:pointer;
 }
@@ -65,10 +65,10 @@ body {
 .left-section-2 {
     background-color: rgb(122 60 133);
     width: 60%;
-    height: 306px;
+    height: 150px;
     margin: 10px;
     color: white;
-    padding: 150px 0px;
+    padding: 50px 0px;
     font-family: cursive;
     /* font-weight: bold; */
     font-size: x-large;
@@ -86,9 +86,9 @@ body {
 
 .column {
     background-color:#34aea2;
-    height: 100px;
+    height: 48px;
     margin: 2px;
-    padding: 50px 0px;
+    padding: 20px 0px;
     color: white;
   font-size: larger;
   font-family: cursive;
@@ -96,7 +96,7 @@ body {
 }
 
 .section-3 {
-    height: 300px;
+    height: 150px;
     display: flex;
     justify-content: center;
   font-family: cursive;
@@ -114,7 +114,7 @@ body {
 }
 
 .footer {
-    padding: 10px;
+    padding: 5px;
     background-color:#722c2c;
     color: white;
    font-family: cursive;
@@ -122,4 +122,3 @@ body {
   cursor:pointer;}
   
   
-}
